@@ -1,0 +1,36 @@
+.fa{ 
+    display: contents; 
+    color: whitesmoke;
+}
+a{
+    color: whitesmoke!important;
+}
+a:hover{
+    text-decoration: none;
+}
+.logo,a:hover{
+color: orangered!important;
+}
+.logoimg{
+    width: 100px;
+    height: auto;
+
+}
+.nav-link{
+    font-size: larger;
+    font-weight: bolder;
+}
+tr{
+    margin: 0px 5px;
+    padding: 0px 0px;
+    vertical-align: -webkit-baseline-middle;
+}
+table{
+    margin: 60px 0px;
+}
+td{
+    padding: 0px 10px;
+}
+.jqx-file-upload-button-browse{
+    float:right!important;
+}
